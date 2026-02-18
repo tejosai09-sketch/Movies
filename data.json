@@ -1,0 +1,113 @@
+{
+  "movies": [
+    {
+      "title": "Baahubali: The Beginning",
+      "image": "https://images.justwatch.com/poster/337830029/s166/baahubali-the-epic.avif",
+      "link": "#"
+    },
+    {
+      "title": "Hi Nanna",
+      "image": "https://images.justwatch.com/poster/311292828/s166/nani30.avif",
+      "link": "#"
+    },
+    {
+      "title": "Dhurandhar",
+      "image": "https://images.justwatch.com/poster/340126450/s166/dhurandhar-2025.avif",
+      "link": "#"
+    },
+    {
+      "title": "Oppenheimer",
+      "image": "https://images.justwatch.com/poster/305252655/s166/oppenheimer.avif",
+      "link": "#"
+    },
+    {
+      "title": "Jersey",
+      "image": "https://images.justwatch.com/poster/125540483/s166/jersey.avif",
+      "link": "#"
+    },
+    {
+      "title": "Avengers: Endgame",
+      "image": "https://images.justwatch.com/poster/118339636/s166/avengers-endgame.avif",
+      "link": "#"
+    },
+    {
+      "title": "Avatar",
+      "image": "https://images.justwatch.com/poster/8730058/s166/avatar.avif",
+      "link": "#"
+    },
+    {
+      "title": "Deadpool 3",
+      "image": "https://images.justwatch.com/poster/318387357/s166/deadpool-3.avif",
+      "link": "#"
+    },
+    {
+      "title": "Lokah Chapter One: Chandra",
+      "image": "https://images.justwatch.com/poster/336514232/s166/lokah-chapter-one-chandra.avif",
+      "link": "#"
+    },
+    {
+      "title": "Mayabazar",
+      "image": "https://images.justwatch.com/poster/338035234/s166/mayabazar.avif",
+      "link": "#"
+    },
+    {
+      "title": "K.G.F: Chapter 2",
+      "image": "https://images.justwatch.com/poster/249962156/s166/k-g-f-chapter-2.avif",
+      "link": "#"
+    },
+    {
+      "title": "Little Hearts",
+      "image": "https://images.justwatch.com/poster/336471637/s166/little-hearts-2025.avif",
+      "link": "#"
+    }
+  ],
+
+  "webSeries": [
+    {
+      "title": "Stranger Things",
+      "image": "https://images.justwatch.com/poster/301444843/s166/stranger-things.avif",
+      "link": "https://www.justwatch.com/in/tv-show/stranger-things"
+    },
+    {
+      "title": "The Family Man",
+      "image": "https://images.justwatch.com/poster/146823074/s166/the-family-man.avif",
+      "link": "https://www.justwatch.com/in/tv-show/the-family-man"
+    },
+    {
+      "title": "Game of Thrones",
+      "image": "https://images.justwatch.com/poster/297859466/s166/game-of-thrones.avif",
+      "link": "https://www.justwatch.com/in/tv-show/game-of-thrones"
+    }
+  ],
+
+  "tvShows": [
+    {
+      "title": "House of the Dragon",
+      "image": "https://images.justwatch.com/poster/301444667/s166/house-of-the-dragon.avif",
+      "link": "https://www.justwatch.com/in/tv-show/house-of-the-dragon"
+    },
+    {
+      "title": "True Detective",
+      "image": "https://images.justwatch.com/poster/243933917/s166/true-detective.avif",
+      "link": "https://www.justwatch.com/in/tv-show/true-detective"
+    },
+    {
+      "title": "The Boys",
+      "image": "https://images.justwatch.com/poster/318597086/s166/the-boys.avif",
+      "link": "https://www.justwatch.com/in/tv-show/the-boys"
+    }
+  ],
+
+  "upcoming": [
+    {
+      "title": "Kalki 2898 AD",
+      "image": "https://images.justwatch.com/poster/318017051/s166/kalki-2898-ad.avif",
+      "link": "https://www.justwatch.com/in/movie/kalki-2898-ad"
+    },
+    {
+      "title": "Captain Miller",
+      "image": "https://images.justwatch.com/poster/309492176/s166/captain-miller.avif",
+      "link": "https://www.justwatch.com/in/movie/captain-miller"
+    }
+  ]
+}
