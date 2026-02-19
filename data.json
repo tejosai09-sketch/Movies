@@ -77,13 +77,58 @@
       "title": "Game of Thrones",
       "image": "https://images.justwatch.com/poster/297859466/s166/game-of-thrones.avif",
       "link": "https://www.justwatch.com/in/tv-show/game-of-thrones"
+    }, 
+    {
+      "title": "Money Heist",
+      "image": "https://images.justwatch.com/poster/249335581/s166/paperhouse.avif",
+      "link": "https://www.justwatch.com/in/movie/captain-miller"
+    },
+     {
+      "title": "Farzi",
+      "image": "https://images.justwatch.com/poster/303328524/s166/farzi.avif",
+      "link": "https://www.justwatch.com/in/movie/captain-miller"
+    },
+     {
+      "title": "Breaking Bad",
+      "image": "https://images.justwatch.com/poster/110511366/s166/breaking-bad.avif",
+      "link": "https://www.justwatch.com/in/movie/captain-miller"
+    },
+     {
+      "title": "Captain Miller",
+      "image": "https://images.justwatch.com/poster/309492176/s166/captain-miller.avif",
+      "link": "https://www.justwatch.com/in/movie/captain-miller"
+    },
+     {
+      "title": "Mirzapur",
+      "image": "https://images.justwatch.com/poster/340839284/s166/mirzapur.avif",
+      "link": "https://www.justwatch.com/in/movie/captain-miller"
+    },
+     {
+      "title": "Captain Miller",
+      "image": "https://images.justwatch.com/poster/309492176/s166/captain-miller.avif",
+      "link": "https://www.justwatch.com/in/movie/captain-miller"
+    },
+     {
+      "title": "Daredevil",
+      "image": "https://images.justwatch.com/poster/326901759/s166/daredevil-born-again.avif",
+      "link": "https://www.justwatch.com/in/movie/captain-miller"
+    },
+     {
+      "title": "The Walking Dead",
+      "image": "https://images.justwatch.com/poster/301587072/s166/the-walking-dead.avif",
+      "link": "https://www.justwatch.com/in/movie/captain-miller"
+    },
+     {
+      "title": "Sacred Games",
+      "image": "https://images.justwatch.com/poster/71314737/s166/sacred-games.avif",
+      "link": "https://www.justwatch.com/in/movie/captain-miller"
     }
   ],
 
   "tvShows": [
     {
-      "title": "House of the Dragon",
-      "image": "https://images.justwatch.com/poster/301444667/s166/house-of-the-dragon.avif",
+      "title": "Band of Brothers",
+      "image": "https://images.justwatch.com/poster/307709934/s166/band-of-brothers.avif",
       "link": "https://www.justwatch.com/in/tv-show/house-of-the-dragon"
     },
     {
@@ -92,21 +137,116 @@
       "link": "https://www.justwatch.com/in/tv-show/true-detective"
     },
     {
-      "title": "The Boys",
-      "image": "https://images.justwatch.com/poster/318597086/s166/the-boys.avif",
+      "title": "The Wire ",
+      "image": "https://images.justwatch.com/poster/176159366/s166/the-wire.avif",
       "link": "https://www.justwatch.com/in/tv-show/the-boys"
+    },
+     {
+      "title": "The Kapil Sharma Show ",
+      "image": "https://images.justwatch.com/poster/300673007/s166/the-kapil-sharma-show.avif",
+      "link": "https://www.justwatch.com/in/movie/captain-miller"
+    },
+     {
+      "title": "Bigg Boss ",
+      "image": "https://images.justwatch.com/poster/335665149/s166/bigg-boss.avif",
+      "link": "https://www.justwatch.com/in/movie/captain-miller"
+    },
+     {
+      "title": "Doraemon ",
+      "image": "https://images.justwatch.com/poster/266921488/s166/doraemon.avif",
+      "link": "https://www.justwatch.com/in/movie/captain-miller"
+    },
+     {
+      "title": "Man vs. Wild ",
+      "image": "https://images.justwatch.com/poster/176954155/s166/man-vs-wild.avif",
+      "link": "https://www.justwatch.com/in/movie/captain-miller"
+    },
+     {
+      "title": "Food Factory",
+      "image": "https://images.justwatch.com/poster/340041935/s166/food-factory-ca.avif",
+      "link": "https://www.justwatch.com/in/movie/captain-miller"
+    },
+     {
+      "title": "Forged in Fire",
+      "image": "https://images.justwatch.com/poster/302429579/s166/forged-in-fire.avif",
+      "link": "https://www.justwatch.com/in/movie/captain-miller"
+    }, 
+    {
+      "title": "Avatar: The Last Airbender",
+      "image": "https://images.justwatch.com/poster/317089738/s166/avatar-the-last-airbender-2005.avif",
+      "link": "https://www.justwatch.com/in/movie/captain-miller"
+    },
+     {
+      "title": "Our Planet",
+      "image": "https://images.justwatch.com/poster/121570473/s166/our-planet.avif",
+      "link": "https://www.justwatch.com/in/movie/captain-miller"
+    },
+     {
+      "title": "The Last Dance",
+      "image": "Sherlock",
+      "link": "https://images.justwatch.com/poster/177867069/s166/sherlock.avif"
     }
   ],
 
   "upcoming": [
     {
-      "title": "Kalki 2898 AD",
-      "image": "https://images.justwatch.com/poster/318017051/s166/kalki-2898-ad.avif",
+      "title": "Varanasi",
+      "image": "https://images.justwatch.com/poster/338957081/s166/varanasi.avif",
       "link": "https://www.justwatch.com/in/movie/kalki-2898-ad"
     },
     {
-      "title": "Captain Miller",
-      "image": "https://images.justwatch.com/poster/309492176/s166/captain-miller.avif",
+      "title": "Toxic",
+      "image": "https://images.justwatch.com/poster/340717479/s166/toxic-2025-2.avif",
+      "link": "https://www.justwatch.com/in/movie/captain-miller"
+    },
+     {
+      "title": "Peddi",
+      "image": "https://images.justwatch.com/poster/328922401/s166/peddi.avif",
+      "link": "https://www.justwatch.com/in/movie/captain-miller"
+    },
+     {
+      "title": "Avengers: Doomsday",
+      "image": "https://images.justwatch.com/poster/319495274/s166/avengers-the-kang-dynasty.avif",
+      "link": "https://www.justwatch.com/in/movie/captain-miller"
+    },
+     {
+      "title": "Michael",
+      "image": "https://images.justwatch.com/poster/341416205/s166/michael-2025-0.avif",
+      "link": "https://www.justwatch.com/in/movie/captain-miller"
+    },
+     {
+      "title": "The Bride!",
+      "image": "https://images.justwatch.com/poster/336144097/s166/the-bride-2025.avif",
+      "link": "https://www.justwatch.com/in/movie/captain-miller"
+    },
+     {
+      "title": "Supergirl",
+      "image": "https://images.justwatch.com/poster/339996464/s166/supergirl-woman-of-tomorrow.avif",
+      "link": "https://www.justwatch.com/in/movie/captain-miller"
+    },
+     {
+      "title": "Hamnet",
+      "image": "https://images.justwatch.com/poster/336608673/s166/hamnet.avif",
+      "link": "https://www.justwatch.com/in/movie/captain-miller"
+    },
+     {
+      "title": "Hoppers",
+      "image": "https://images.justwatch.com/poster/341533810/s166/hoppers.avif",
+      "link": "https://www.justwatch.com/in/movie/captain-miller"
+    },
+     {
+      "title": "Moana",
+      "image": "https://images.justwatch.com/poster/252769591/s166/moana.avif",
+      "link": "https://www.justwatch.com/in/movie/captain-miller"
+    },
+     {
+      "title": "Digger",
+      "image": "https://images.justwatch.com/poster/340314707/s166/.avif",
+      "link": "https://www.justwatch.com/in/movie/captain-miller"
+    },
+     {
+      "title": "Solo Mio",
+      "image": "https://images.justwatch.com/poster/341769612/s166/solo-mio.avif",
       "link": "https://www.justwatch.com/in/movie/captain-miller"
     }
   ]
